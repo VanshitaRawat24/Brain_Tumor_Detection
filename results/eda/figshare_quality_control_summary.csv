@@ -1,0 +1,8 @@
+Check,Result
+Total MRI files,3064
+Metadata records,3064
+Unreadable files,0
+Blank/uniform images,0
+Duplicate groups,0
+Empty tumor masks,0
+Images with tumor area < 0.1%,1
