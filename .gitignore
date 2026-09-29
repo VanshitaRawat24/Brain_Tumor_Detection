@@ -2,3 +2,12 @@ data/raw/
 __pycache__/
 .ipynb_checkpoints/
 results/*.keras
+# Trained model files
+*.keras
+
+# Generated model folders
+notebooks/results/cnn_models/
+notebooks/results/transfer_models/
+
+# Local dataset cache
+results/dataset_cache/
