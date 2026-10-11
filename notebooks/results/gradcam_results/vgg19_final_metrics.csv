@@ -1,0 +1,2 @@
+Model,Accuracy (%),Macro Precision (%),Macro Recall (%),Macro F1 (%)
+VGG19 Fine-tuned,91.5,87.98,90.01,88.79

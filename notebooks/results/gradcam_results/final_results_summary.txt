@@ -1,0 +1,21 @@
+BRAIN TUMOR DETECTION — FINAL RESULTS SUMMARY
+=============================================
+
+Models compared: 16
+
+Best model by accuracy:
+best_vgg19_finetuned.keras
+Accuracy: 91.50%
+
+Best model by macro F1:
+best_vgg19_finetuned.keras
+Macro F1: 88.79%
+
+Grad-CAM PNG images found: 41
+
+Model comparison CSV:
+C:\Users\Vishal\New folder\Brain_Tumor_Detection\notebooks\results\gradcam_results\automated_final_model_comparison.csv
+
+Note:
+Grad-CAM visualizations provide qualitative explanations.
+They do not establish tumor boundaries or clinical validity.
