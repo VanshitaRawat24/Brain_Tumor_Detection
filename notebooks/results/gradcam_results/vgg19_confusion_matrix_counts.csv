@@ -1,0 +1,4 @@
+,Predicted Glioma,Predicted Meningioma,Predicted Pituitary
+Actual Glioma,82,13,3
+Actual Meningioma,24,264,0
+Actual Pituitary,10,2,214

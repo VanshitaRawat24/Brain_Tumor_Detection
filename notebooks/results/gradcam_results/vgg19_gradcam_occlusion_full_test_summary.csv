@@ -1,0 +1,2 @@
+Images Evaluated,Mean High Patch Drop,Mean Low Patch Drop,Mean Paired Difference,Median Paired Difference,High Drop Greater Count,Low Drop Greater Count,Wilcoxon Statistic,Wilcoxon P-value
+612,0.13580557728236944,0.027292836061831003,0.10851274122053843,0.012472420930862427,444,168,45882.0,6.801009197041915e-28

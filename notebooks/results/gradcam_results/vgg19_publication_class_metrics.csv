@@ -1,0 +1,4 @@
+Tumor Class,Precision,Recall,F1-score,Support
+Glioma,0.7069,0.8367,0.7664,98.0
+Meningioma,0.9462,0.9167,0.9312,288.0
+Pituitary,0.9862,0.9469,0.9661,226.0

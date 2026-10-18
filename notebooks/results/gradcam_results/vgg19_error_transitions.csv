@@ -1,0 +1,6 @@
+Error Rank,Actual Class,Predicted Class,Error Count,Percentage of Actual Class (%)
+1,Meningioma,Glioma,24,8.33
+2,Glioma,Meningioma,13,13.27
+3,Pituitary,Glioma,10,4.42
+4,Glioma,Pituitary,3,3.06
+5,Pituitary,Meningioma,2,0.88

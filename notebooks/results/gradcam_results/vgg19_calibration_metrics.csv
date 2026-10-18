@@ -1,0 +1,2 @@
+Model,Accuracy (%),ECE (10 bins),Multiclass Brier Score
+VGG19 Fine-tuned,91.5,0.0357,0.1321

@@ -1,0 +1,17 @@
+Model,Accuracy (%),Macro Precision (%),Macro Recall (%),Macro F1 (%),Accuracy Rank,Macro F1 Rank,Model_File
+VGG19 Fine-tuned,91.5,87.98,90.01,88.79,1,1,best_vgg19_finetuned.keras
+VGG16 Fine-tuned,91.01,87.52,90.27,88.39,2,3,best_vgg16_finetuned.keras
+ResNet50 se Stage 1,90.85,87.3,90.32,88.41,3,2,best_resnet50_se_stage1.keras
+ResNet50 se Fine-tuned,90.36,86.67,88.88,87.53,4,4,best_resnet50_se_finetuned.keras
+ResNet101 Stage 1,90.36,87.07,86.63,86.85,4,5,best_resnet101_stage1.keras
+ResNet101 Fine-tuned,90.36,87.23,86.47,86.82,4,6,best_resnet101_finetuned.keras
+lenet,89.54,87.75,85.35,86.37,7,7,best_lenet.keras
+ResNet50 cbam Stage 1 repaired,88.89,85.32,87.9,86.33,8,8,best_resnet50_cbam_stage1_repaired.keras
+VGG16 Stage 1,88.56,84.74,87.86,85.7,9,10,best_vgg16_stage1.keras
+ResNet50 cbam Fine-tuned repaired,88.4,84.71,88.16,85.78,10,9,best_resnet50_cbam_finetuned_repaired.keras
+ResNet50 Stage 1,88.4,84.5,87.43,85.48,10,11,best_resnet50_stage1.keras
+ResNet50 Fine-tuned,88.4,84.34,86.75,85.22,10,12,best_resnet50_finetuned.keras
+VGG19 Stage 1,87.58,83.43,85.66,84.11,13,13,best_vgg19_stage1.keras
+inceptionv3 Stage 1,86.76,82.71,86.11,83.61,14,14,best_inceptionv3_stage1.keras
+inceptionv3 Fine-tuned,85.95,81.98,85.31,82.79,15,15,best_inceptionv3_finetuned.keras
+alexnet,81.37,78.71,83.67,79.49,16,16,best_alexnet.keras

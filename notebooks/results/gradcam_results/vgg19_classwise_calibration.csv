@@ -1,0 +1,4 @@
+Class,Positive Samples,One-vs-Rest ECE (10 bins),One-vs-Rest Brier Score
+Glioma,98,0.0405,0.0607
+Meningioma,288,0.0355,0.0521
+Pituitary,226,0.0144,0.0192

@@ -1,0 +1,4 @@
+Actual Class,Test Samples,Correct Predictions,Misclassified Samples,Recall (%)
+Glioma,98,82,16,83.67
+Meningioma,288,264,24,91.67
+Pituitary,226,214,12,94.69

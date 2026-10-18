@@ -1,0 +1,2 @@
+n_images,high_patch_mean_drop,low_patch_mean_drop,mean_paired_difference,median_paired_difference,paired_difference_sd,mean_difference_CI95_lower,mean_difference_CI95_upper,high_drop_greater_count,low_drop_greater_count,ties,wilcoxon_statistic,wilcoxon_p_value,cohens_dz,wilcoxon_rank_biserial
+612,0.13580557728236944,0.027292836061831,0.10851274122053843,0.01247242093086241,0.29132881407658806,0.0857936560033873,0.13180536985637026,444,168,0,45882.0,6.801009197041915e-28,0.3724751414119006,0.5107955090682276
