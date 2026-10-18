@@ -1,0 +1,10 @@
+analysis,contrast,n_correct,n_incorrect,estimate,bootstrap_95CI_lower,bootstrap_95CI_upper,joint_Wald_p_value,model_R_squared
+Bootstrap contrast,Glioma: Incorrect minus Correct,,,0.3954161701542212,0.2403730278484035,0.5458449357430587,,
+Bootstrap contrast,Meningioma: Incorrect minus Correct,,,0.0462658204981408,-0.1019053734391822,0.1952024305077922,,
+Bootstrap contrast,Pituitary: Incorrect minus Correct,,,0.2354343171097535,-0.0219476070572287,0.4801720664887654,,
+Bootstrap contrast,Meningioma interaction minus Glioma,,,-0.3491503496560804,-0.5614174656605235,-0.1348761571365063,,
+Bootstrap contrast,Pituitary interaction minus Glioma,,,-0.1599818530444677,-0.4620750125598215,0.1305649029617595,,
+Class-specific correctness effect,Glioma: Incorrect minus Correct,82.0,16.0,0.3954161701542212,,,,
+Class-specific correctness effect,Meningioma: Incorrect minus Correct,264.0,24.0,0.04626582049814083,,,,
+Class-specific correctness effect,Pituitary: Incorrect minus Correct,214.0,12.0,0.2354343171097535,,,,
+HC3 factorial model,Joint class x correctness interaction (2 df),560.0,52.0,,,,0.009603142698567463,0.06324116612323816

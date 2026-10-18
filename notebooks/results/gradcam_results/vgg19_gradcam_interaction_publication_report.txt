@@ -1,0 +1,24 @@
+GRAD-CAM OCCLUSION INTERACTION ANALYSIS
+=============================================
+Observations included: 612
+HC3 factorial model R-squared: 0.0632
+Joint Wald test p-value (2 df): 0.00960314
+
+Class-specific effect: Incorrect minus Correct
+  Glioma: 0.395416
+  Meningioma: 0.046266
+  Pituitary: 0.235434
+
+Interaction coefficients (reference class: Glioma):
+  C(Class)[T.Meningioma]:C(Correct)[T.False]: estimate=-0.349150, HC3 p=0.00233108
+  C(Class)[T.Pituitary]:C(Correct)[T.False]: estimate=-0.159982, HC3 p=0.326139
+
+Bootstrap interaction contrasts:
+  Meningioma interaction minus Glioma: -0.349150, 95% CI [-0.561417, -0.134876]
+  Pituitary interaction minus Glioma: -0.159982, 95% CI [-0.462075, 0.130565]
+
+Interpretation caveat:
+These analyses describe class-related differences in an
+occlusion-sensitivity measure. They do not establish clinical
+localization accuracy or explanation faithfulness. Incorrect
+prediction subgroups are small; treat subgroup findings as exploratory.

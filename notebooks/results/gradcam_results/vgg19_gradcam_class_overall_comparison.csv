@@ -1,0 +1,2 @@
+n_classes,n_images,observed_between_class_statistic,permutation_p_value,permutations
+3,612,0.5093485122200535,0.0495975201239938,20000
