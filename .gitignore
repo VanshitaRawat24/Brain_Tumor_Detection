@@ -10,4 +10,22 @@ notebooks/results/cnn_models/
 notebooks/results/transfer_models/
 
 # Local dataset cache
+results/
+results/dataset_cache/
+dataset_cache/.venv*/
+results/brisc_validation/
+
+
+# Python virtual environments
+.venv/
+.venv-*/
+venv/
+env/
+.venv312/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated dataset/cache files
 results/dataset_cache/
